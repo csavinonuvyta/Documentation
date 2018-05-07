@@ -11,7 +11,7 @@ Acronimi e definizioni
 ======= ==========  ==========
 ACRONIMO	DESCRIZIONE DEFINIZIONE
 ======= ==========  ==========
-ciao ciao   ciao ciao   ciao
+ciao    ciao        ciao
 ======= ==========  ==========		
 
 Convenzioni di interfaccia grafica
@@ -45,12 +45,12 @@ F.A.Q.
 ================
 
 Q
------------------
+~~~~~~~~~
 
 descrizione della domanda
 
 A
------------------
+~~~~~~~~~~
 
 descrizione della risposta
 
@@ -66,6 +66,10 @@ Formule
 -----------------
 
 Si riportano nella sezione i concetti matematici definiti all’interno dell’applicazione (se previsti)
+
+
+--------------------------------------
+
 
 Configurazioni stampa
 -----------------
