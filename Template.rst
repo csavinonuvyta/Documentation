@@ -1,3 +1,4 @@
+
 Introduzione
 ===============
 
@@ -5,6 +6,7 @@ Introduzione
 -----------------
 
 1.1	Acronimi e definizioni
+~~~~~~~~~~~~~~~~
 
 ======= ==========  ==========
 ACRONIMO	DESCRIZIONE DEFINIZIONE
@@ -33,6 +35,8 @@ Descrivere quali moduli configurare, quali sono i moduli da configurare per le c
 -----------------
 
 4.1.1	Dettaglio Primo caso d’uso
+~~~~~~~~~~~~~~~~~~~~~~~
+
 Descrivere le funzionalità del modulo. Descrivere ciascuna funzionalità in relazione all’attivazione di specifiche configurazioni.
 
 Note. Inserire dettagli rilevanti da segnalare
@@ -69,8 +73,12 @@ Si riportano nella sezione i concetti matematici definiti all’interno dell’a
 Descrivere altre configurazioni da impostare per la stampa
 
 XML PRODOTTO
+~~~~~~~~~~
 esempio
+
 XSLT DI ESEMPIO DA CONFIGURARE
+~~~~~~~~~~~~~
+
 esempio
 
 10	Integrazioni
