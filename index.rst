@@ -2,3 +2,4 @@
    :maxdepth: 2
    :caption: Indice dei contenuti
 
+   Template
