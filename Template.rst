@@ -11,7 +11,7 @@ Acronimi e definizioni
 ======= ==========  ==========
 ACRONIMO	DESCRIZIONE DEFINIZIONE
 ======= ==========  ==========
-ciao ciao   ciao ciao   ciao
+ciao    ciao        ciao
 ======= ==========  ==========		
 
 Convenzioni di interfaccia grafica
@@ -45,12 +45,12 @@ F.A.Q.
 ================
 
 Q
------------------
+~~~~~~~~~
 
 descrizione della domanda
 
 A
------------------
+~~~~~~~~~~
 
 descrizione della risposta
 
@@ -90,3 +90,5 @@ Tabelle/Viste di supporto
 ================
 
 Descrivere quali tabelle su DB e/o viste per il supporto alla creazione di stored procedure.
+
+--------------------------------------
