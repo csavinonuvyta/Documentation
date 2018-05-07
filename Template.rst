@@ -67,10 +67,6 @@ Formule
 
 Si riportano nella sezione i concetti matematici definiti all’interno dell’applicazione (se previsti)
 
-
---------------------------------------
-
-
 Configurazioni stampa
 -----------------
 
@@ -94,3 +90,5 @@ Tabelle/Viste di supporto
 ================
 
 Descrivere quali tabelle su DB e/o viste per il supporto alla creazione di stored procedure.
+
+--------------------------------------
